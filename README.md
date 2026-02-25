@@ -115,8 +115,5 @@ index.html                   # HTML entry point
 - OCSP and CRL revocation checking is reported as warnings; real-time OCSP queries require a backend proxy.
 - Only PDF digital signatures are supported at this time. XML (XAdES) and binary (CAdES) support may be added in the future.
 
----
 
-## License
 
-MIT
